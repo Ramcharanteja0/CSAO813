@@ -1,0 +1,6 @@
+a=input("enter the value ")
+b=input ("enter another value ")
+if(a<b):
+    print("b is greater ")
+else:
+    print(" a i greater")
